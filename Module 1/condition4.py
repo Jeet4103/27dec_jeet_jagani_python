@@ -7,7 +7,6 @@ total = sub1 + sub2 + sub3 + sub4
 
 percentage = total / 4
 
-
 if percentage > 70:
     print("You have got A+ grade") 
 
